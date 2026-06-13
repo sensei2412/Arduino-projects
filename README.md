@@ -6,3 +6,5 @@ Digital input and output, variables.
 Analog input, using the serial monitor in arduino software, temperature.
 # Arduino-project-4
 color mixing lamp,using an RGB LED and phototransistors that changes color based on the surrounding light conditions.
+# Arduino-project-5
+Using a servo motor and a potentiometer to create a mechanical mood meter. Learning about servo motors, value mapping with map(), and Arduino libraries.
