@@ -4,3 +4,5 @@ Simple circuit with some switches, an led, and a resistor. Basic electrical theo
 Digital input and output, variables.
 # Arduino-project-3
 Analog input, using the serial monitor in arduino software, temperature.
+# Arduino-project-4
+color mixing lamp,using an RGB LED and phototransistors that changes color based on the surrounding light conditions.
