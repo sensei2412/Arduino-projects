@@ -9,4 +9,8 @@ color mixing lamp,using an RGB LED and phototransistors that changes color based
 # Arduino-project-5
 Using a servo motor and a potentiometer to create a mechanical mood meter. Learning about servo motors, value mapping with map(), and Arduino libraries.
 # Arduino-project-6
-Et lysbasert thermin instrument som bruker en fototransistor til å registrere lysnivåer og et piezoelement til å generere ulike toner.
+EA light-based theremin instrument that uses a photoresistor (phototransistor) to detect light levels and a piezo buzzer to generate different musical tones.
+# Arduino-project-7
+A small musical keyboard using resistor ladders, arrays, piezo and switches
+
+
